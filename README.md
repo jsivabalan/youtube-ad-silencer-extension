@@ -1,1 +1,0 @@
-# youtube-ad-silencer-extension
